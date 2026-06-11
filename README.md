@@ -20,6 +20,8 @@ Examines monthly revenue trends, customer ratings, and new vs returning customer
 Evaluates restaurant performance using dynamic metrics such as Average Rating, Total Revenue, and Total Orders.
 
 ----> Repository Contents
+
+```text
 ├── Dataset/
 ├── Tableau Workbook/
 │   └── HackBook.twbx
@@ -28,7 +30,7 @@ Evaluates restaurant performance using dynamic metrics such as Average Rating, T
 ├── Dashboard Snapshots/
 ├── Output CSV Files/
 └── README.md
-
+```
 Tools Used
   Tableau Desktop
   CSV Dataset
